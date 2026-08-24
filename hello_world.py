@@ -1,2 +1,2 @@
-print("hello gudha madammu... kiss")
-print("nuvv kissi pettu....")
+print("hello word...")
+print("working in vs code")
